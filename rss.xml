@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mushpod</title>
+    <description>下北沢で活動する女の子がボーカルのバンドMushlee(マシュリー)のPodcast(ポッドキャスト)です。下北沢や、Mushleeのこと、メンバーの興味のあることについて話します。 #mushpod</description>
+    <link href="http://mushpod.mushlee.com/" />
+    <link href="http://mushpod.mushlee.com/rss.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <copyright>&#xA9; Mushlee</copyright>
+    <media:copyright>&#xA9; Mushlee</media:copyright>
+    <media:thumbnail url="http://mushpod.mushlee.com//images/icon240.png" />
+    <media:keywords>mushlee,mushpod,下北沢,下北,東京,音楽,Music,ライブ,concert,live,バンド,band,Animation,ギター,guitar,ドラム,Drum,ボーカル,vocal,ベース,base,song,歌,アニメ,アニメーション</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Music</media:category>
+    <itunes:subtitle>下北沢で活動中のバンドMushleeのポッドキャスト #mushpod</itunes:subtitle>
+    <itunes:author>Mushlee</itunes:author>
+    <itunes:summary>下北沢で活動する女の子がボーカルのバンドMushlee(マシュリー)のPodcast(ポッドキャスト)です。下北沢や、Mushleeのこと、メンバーの興味のあることについて話します。 #mushpod</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>mushlee,mushpod,下北沢,下北,東京,音楽,Music,ライブ,concert,live,バンド,band,Animation,ギター,guitar,ドラム,Drum,ボーカル,vocal,ベース,base,song,歌,アニメ,アニメーション</itunes:keywords>
+
+    <itunes:owner>
+      <itunes:name>Mushlee</itunes:name>
+      <itunes:email>mushlee00@gmail.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://mushpod.mushlee.com/images/icon1400.jpg" />
+
+    <itunes:category text="Music" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Hobbies" />
+    </itunes:category>
+
+      <item>
+        <title>1. Mushlee</title>
+        <description>下北沢で活動中の女の子ボーカルのバンド「Mushlee(マシュリー)」がポッドキャストMushpod(マッシュポッド)をはじめました。
+
+第一回目はバンドメンバーによるMushleeの自己紹介です。Memoでは今回話した内容をまとめています。
+
+</description>
+        <pubDate>Wed, 22 Jul 2015 00:00:00 +0900</pubDate>
+        <link>http://mushpod.mushlee.com/ep001-mushlee/</link>
+        <guid isPermaLink="true">http://mushpod.mushlee.com/ep001-mushlee/</guid>
+        <itunes:author>Mushlee</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle><![CDATA[<p>下北沢で活動中の女の子ボーカルのバンド「Mushlee(マシュリー)」がポッドキャストMushpod(マッシュポッド)をはじめました。</p>
+
+<p>第一回目はバンドメンバーによるMushleeの自己紹介です。Memoでは今回話した内容をまとめています。</p>
+
+<p></p>
+
+<h2 id="memo">Memo</h2>
+
+<ul>
+  <li><a href="http://mushlee.com/">Mushlee</a></li>
+  <li><a href="http://mushpod.mushlee.com/">Mushpod</a></li>
+  <li><a href="http://www.odakyu.jp/station/shimo_kitazawa/">小田急線下北沢駅</a></li>
+  <li><a href="http://www.keio.co.jp/train/station/59_shimokitazawa/">京王線下北沢駅</a></li>
+  <li><a href="https://www.pref.ehime.jp/">愛媛</a></li>
+  <li><a href="http://shimoyane.com/">下北沢屋根裏</a></li>
+  <li><a href="http://www.tokyu-dept.co.jp/toyoko/shop/detail.html/?shopcode=ANNASUI">渋谷東急ANNA SUI</a></li>
+  <li><a href="http://www.evangelion.co.jp/2_0/">ヱヴァンゲリヲン新劇場版：破</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%8C%97%E6%B2%A2%E9%A7%85#/media/File:OER_Shimo-Kitazawa_station_North.JPG">旧下北沢駅北口</a></li>
+  <li><a href="http://www.segafredo.jp/">ガストの下のあそこのコーヒー Segafredo ZANETTI</a></li>
+  <li><a href="http://mushlee.com/">Mushleeのメンバー</a></li>
+  <li><a href="https://instagram.com/p/bLJMCqJ847/">昔のきーくん キリスト</a></li>
+  <li><a href="https://instagram.com/p/gfKmzmp8-T/">外見がキャッチー</a></li>
+  <li><a href="http://www.tbs.co.jp/anime/haganai/chara/images/chara_img06.jpg">二次元幼女</a></li>
+  <li><a href="https://instagram.com/p/xjO80EJ83S/">がんちゃんメガネとシャツ</a></li>
+  <li><a href="https://instagram.com/p/c0HFgZJ80U/">なで肩</a></li>
+  <li><a href="https://instagram.com/p/y87fOzJ85G/">がんちゃんの居眠り 本日の寝顔</a></li>
+  <li><a href="https://instagram.com/p/teJUW-J8-8/?taken-by=mushlee">ご飯のがんちゃん</a></li>
+  <li><a href="https://instagram.com/p/sl01T3J8zB/">ドS</a></li>
+  <li><a href="https://instagram.com/p/q8SZGkJ8yu/">童顔のモリ</a></li>
+  <li><a href="https://instagram.com/p/x4QQmap8_L/">モリの絵</a></li>
+  <li><a href="https://instagram.com/p/140CXNp8xg/">がんちゃん「絵を書く努力をした」</a></li>
+  <li><a href="https://itunes.apple.com/jp/album/id1011265452?app=itunes">Mushleeのアルバム</a></li>
+  <li><a href="https://twitter.com/mushlee00">MushleeのTwitter</a></li>
+  <li><a href="http://mushlee.com/">Mushleeのホームページ</a></li>
+</ul>
+
+]]></itunes:subtitle>
+    <itunes:duration>27:09</itunes:duration>
+      <enclosure url="http://mushpod.mushlee.com/posts/2015/ep001-mushlee.mp3" type="audio/mpeg" length="20230737" />
+      <media:content url="http://mushpod.mushlee.com/posts/2015/ep001-mushlee.mp3" fileSize="20230737" type="audio/mpeg" />
+    </item>
+
+</channel>
+</rss>
